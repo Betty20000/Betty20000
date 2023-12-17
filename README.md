@@ -73,13 +73,13 @@ Here are some ideas to get you started:
 
 
 
-  <img src="https://github-readme-streak-stats-tau-murex.vercel.app?user=VincentKiplangat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%" height="50%" >
+  <img src="https://github-readme-streak-stats-tau-murex.vercel.app?user=Betty20000&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%" height="50%" >
 
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentKiplangat&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Betty20000&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats" width="100%">
 </div>
 
 
