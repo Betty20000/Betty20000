@@ -2,12 +2,12 @@
 ![alt text](breadcrum_png.png)
 <!-- ## <div align="center">Electronic and Computer Technologists</div> -->
 ######
-#### -I'm a dedicated Data Scientist passionate about uncovering insights from complex datasets. I'm here to share my expertise from data analysis to machine learning. Whether you're a data enthusiast, a business owner, or simply curious, I've got you covered. Let's dive into the world of data science together!
-#### -Have that website idea in mind and want to implement it using Django, reach out, and we actualize it. Check out some of my best projects here.
-#### -Have that automation idea, which automation problem do you want to solve? is it that car detection accident system, or blind mobility aid. I got you covered.
+#### A Full Stack Web Developer with expertise in React, Python, and APIs. I build dynamic, responsive front-end applications with React, creating seamless user experiences. On the back-end, I use Python and frameworks like Django and Flask to develop scalable, efficient server-side solutions. I design and integrate APIs for smooth communication between front-end and back-end components. Additionally, I’m well-versed in deployment, ensuring that applications are successfully launched on platforms like AWS, Heroku, or Docker. I also implement testing strategies to guarantee the reliability and quality of the application, using tools like Jest for front-end and PyTest for back-end. My goal is to create end-to-end solutions that are performant, secure, and ready for production.
+#### -Have that website idea in mind and want to implement it using Reactand Python, reach out, and we actualize it. Check out some of my best projects here.
+
 
 <!--
-**Kenduiwat/Kenduiwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Betty20000/Betty20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 **Other Languages and Tools:**  </div>
-| HTML | CSS | JS | Django | C | C++ | Arduino | Proteus | Multisim | Matlab | Eagle |
+| HTML | CSS | JS | Flask | C | Django | Arduino | Proteus | Multisim | Matlab | Figma |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++" height="40"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" alt="Arduino" height="40"> | <img src="proteus.jpg" alt="Proteus" height="40"> | <img src="MultisimNI.png" alt="MultisimNI" height="40"> | <img src="Matlab.jpg" alt="Matlab" height="40"> | <img src="Eagle.jpg" alt="Eagle" height="40"> |
 
