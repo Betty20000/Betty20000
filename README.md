@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vincent-kiplangat-9510621bb/">
   <img align="left" alt="Vincent's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Kenduiwat">
+<a href="https://github.com/Betty20000">
   <img align="left" alt="Vincent's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 -->
@@ -98,8 +98,8 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://twitter.com/Kenduiwatt"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/vincent-kiplangat-9510621bb/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
-  <a href="https://github.com/Kenduiwat"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/Beatrice GMwangi-9510621bb/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/Betty20000"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
 </p>
 
